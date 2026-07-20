@@ -55,7 +55,7 @@
 	ignore = all
 [submodule "sorc/ufo"]
 	path = sorc/ufo
-	url = git@github.com:joshuawchen/ufo.git
+	url = https://github.com/joshuawchen/ufo.git
 	branch = develop
 	ignore = all
 [submodule "sorc/vader"]
